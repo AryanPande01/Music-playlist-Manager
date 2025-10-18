@@ -3,17 +3,7 @@
 A simple console-based **Playlist Manager** implemented in **C++** using a **doubly linked list**.  
 This program allows users to add songs, play the current song, move to the next or previous song, and exit the program.
 
----
 
-## 🚀 Features
-
-- **Add Song:** Add new songs to the playlist dynamically.  
-- **Play Song:** Play the current song in the playlist.  
-- **Next Song:** Move forward to the next song.  
-- **Previous Song:** Move backward to the previous song.  
-- **Exit:** Quit the playlist manager gracefully.
-
----
 
 ## 🧠 Data Structure Used
 
